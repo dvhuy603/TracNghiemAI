@@ -1,0 +1,762 @@
+[
+  {
+    "ma_cau_hoi": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "noi_dung": "According to the AI Index Report, which region currently leads the world in releasing notable foundation models?",
+    "dap_an_a": "Europe",
+    "dap_an_b": "Asia",
+    "dap_an_c": "North America (specifically the US)",
+    "dap_an_d": "South America",
+    "dap_an_dung": "C",
+    "chu_de": "Research and Development",
+    "chu_de_con": "Foundation Models",
+    "tu_khoa": [
+      "foundation models",
+      "leading region",
+      "US"
+    ],
+    "muc_do_kho": 1,
+    "thang_do_bloom": "Remember",
+    "thoi_gian_du_kien": 30
+  },
+  {
+    "ma_cau_hoi": "c9b14c32-1594-47b2-849c-851f12abcde4",
+    "noi_dung": "What is the current trend regarding the training costs of state-of-the-art Large Language Models (LLMs)?",
+    "dap_an_a": "Decreasing rapidly due to cheaper hardware",
+    "dap_an_b": "Increasing exponentially due to massive data and compute requirements",
+    "dap_an_c": "Remaining stable over the last 5 years",
+    "dap_an_d": "Increasing only for open-source models",
+    "dap_an_dung": "B",
+    "chu_de": "AI Economics",
+    "chu_de_con": "Training Costs",
+    "tu_khoa": [
+      "training costs",
+      "LLM",
+      "exponential growth"
+    ],
+    "muc_do_kho": 2,
+    "thang_do_bloom": "Understand",
+    "thoi_gian_du_kien": 40
+  },
+  {
+    "ma_cau_hoi": "a3f9e8d7-6c5b-4a49-9234-5b6c7d8e9fa0",
+    "noi_dung": "In current AI benchmark testing, what is the most significant limitation observed in modern models?",
+    "dap_an_a": "Medical image recognition",
+    "dap_an_b": "Basic text translation",
+    "dap_an_c": "Complex multi-step reasoning and avoiding hallucinations",
+    "dap_an_d": "Generating poetry",
+    "dap_an_dung": "C",
+    "chu_de": "Technical Performance",
+    "chu_de_con": "AI Limitations",
+    "tu_khoa": [
+      "benchmarks",
+      "hallucinations",
+      "reasoning"
+    ],
+    "muc_do_kho": 2,
+    "thang_do_bloom": "Understand",
+    "thoi_gian_du_kien": 45
+  },
+  {
+    "ma_cau_hoi": "e1d2c3b4-a5f6-47e8-b9c0-1d2e3f4a5b6c",
+    "noi_dung": "Which sector receives the largest share of private investment in the AI ecosystem?",
+    "dap_an_a": "AI in Agriculture",
+    "dap_an_b": "AI Infrastructure and Generative AI",
+    "dap_an_c": "Early Childhood EdTech",
+    "dap_an_d": "Domestic cleaning robots",
+    "dap_an_dung": "B",
+    "chu_de": "Investment",
+    "chu_de_con": "Capital Allocation",
+    "tu_khoa": [
+      "private investment",
+      "infrastructure",
+      "generative AI"
+    ],
+    "muc_do_kho": 1,
+    "thang_do_bloom": "Remember",
+    "thoi_gian_du_kien": 30
+  },
+  {
+    "ma_cau_hoi": "7f8e9d0c-1b2a-43f4-e5d6-c7b8a9012345",
+    "noi_dung": "Which organization is primarily responsible for publishing the annual AI Index Report?",
+    "dap_an_a": "OpenAI",
+    "dap_an_b": "Google DeepMind",
+    "dap_an_c": "Stanford Institute for Human-Centered Artificial Intelligence (HAI)",
+    "dap_an_d": "The United Nations",
+    "dap_an_dung": "C",
+    "chu_de": "AI Overview",
+    "chu_de_con": "AI Index Report",
+    "tu_khoa": [
+      "AI Index",
+      "Stanford",
+      "HAI"
+    ],
+    "muc_do_kho": 1,
+    "thang_do_bloom": "Remember",
+    "thoi_gian_du_kien": 20
+  },
+  {
+    "ma_cau_hoi": "b2a1c3d4-e5f6-47a8-9b0c-1d2e3f4a5b6c",
+    "noi_dung": "How is the performance gap between closed-source and open-source AI models currently described?",
+    "dap_an_a": "Open-source has vastly surpassed closed-source in all metrics",
+    "dap_an_b": "Closed-source still maintains a slight edge, but the gap is rapidly closing",
+    "dap_an_c": "Open-source models cannot be used for commercial purposes",
+    "dap_an_d": "Performance is perfectly equal across all benchmarks",
+    "dap_an_dung": "B",
+    "chu_de": "Technical Performance",
+    "chu_de_con": "Open-source vs Closed-source",
+    "tu_khoa": [
+      "open-source",
+      "closed-source",
+      "performance gap"
+    ],
+    "muc_do_kho": 3,
+    "thang_do_bloom": "Analyze",
+    "thoi_gian_du_kien": 50
+  },
+  {
+    "ma_cau_hoi": "3c4d5e6f-7a8b-49c0-1d2e-3f4a5b6c7d8e",
+    "noi_dung": "According to employment trends, where do the majority of new AI PhD graduates choose to work?",
+    "dap_an_a": "They remain in academia for research",
+    "dap_an_b": "They transition to government agencies",
+    "dap_an_c": "They join the industry sector (tech corporations)",
+    "dap_an_d": "They face high unemployment rates due to AI coding capabilities",
+    "dap_an_dung": "C",
+    "chu_de": "Education and Employment",
+    "chu_de_con": "Workforce Transition",
+    "tu_khoa": [
+      "AI PhD",
+      "employment",
+      "industry"
+    ],
+    "muc_do_kho": 2,
+    "thang_do_bloom": "Understand",
+    "thoi_gian_du_kien": 35
+  },
+  {
+    "ma_cau_hoi": "4d5e6f7a-8b9c-40d1-e2f3-a4b5c6d7e8f9",
+    "noi_dung": "Which entity passed the world's first comprehensive AI Act?",
+    "dap_an_a": "The United States Congress",
+    "dap_an_b": "The European Union (EU)",
+    "dap_an_c": "The Chinese Government",
+    "dap_an_d": "The World Health Organization (WHO)",
+    "dap_an_dung": "B",
+    "chu_de": "Policy and Governance",
+    "chu_de_con": "AI Legislation",
+    "tu_khoa": [
+      "AI Act",
+      "European Union",
+      "EU"
+    ],
+    "muc_do_kho": 1,
+    "thang_do_bloom": "Remember",
+    "thoi_gian_du_kien": 30
+  },
+  {
+    "ma_cau_hoi": "5e6f7a8b-9c0d-41e2-f3a4-b5c6d7e8f90a",
+    "noi_dung": "What is the primary environmental concern associated with training and deploying large-scale AI models?",
+    "dap_an_a": "Noise pollution from data centers",
+    "dap_an_b": "Plastic waste from peripheral devices",
+    "dap_an_c": "Massive electricity consumption and carbon footprint",
+    "dap_an_d": "Radioactive contamination",
+    "dap_an_dung": "C",
+    "chu_de": "Social Impact",
+    "chu_de_con": "Environment",
+    "tu_khoa": [
+      "electricity consumption",
+      "carbon footprint",
+      "environment"
+    ],
+    "muc_do_kho": 2,
+    "thang_do_bloom": "Understand",
+    "thoi_gian_du_kien": 40
+  },
+  {
+    "ma_cau_hoi": "6f7a8b9c-0d1e-42f3-a4b5-c6d7e8f90a1b",
+    "noi_dung": "Which country currently leads the world in the number of AI-related patents granted annually?",
+    "dap_an_a": "United States",
+    "dap_an_b": "Japan",
+    "dap_an_c": "South Korea",
+    "dap_an_d": "China",
+    "dap_an_dung": "D",
+    "chu_de": "Research and Development",
+    "chu_de_con": "Patents",
+    "tu_khoa": [
+      "patents",
+      "granted",
+      "China"
+    ],
+    "muc_do_kho": 1,
+    "thang_do_bloom": "Remember",
+    "thoi_gian_du_kien": 30
+  },
+  {
+    "ma_cau_hoi": "7a8b9c0d-1e2f-43a4-b5c6-d7e8f90a1b2c",
+    "noi_dung": "What has been one of the most prominent applications of AI in biomedicine in recent years?",
+    "dap_an_a": "Completely replacing human surgeons",
+    "dap_an_b": "Protein folding and accelerating drug discovery",
+    "dap_an_c": "Creating artificial viruses",
+    "dap_an_d": "Curing terminal cancer",
+    "dap_an_dung": "B",
+    "chu_de": "AI Applications",
+    "chu_de_con": "Healthcare and Biology",
+    "tu_khoa": [
+      "biomedicine",
+      "drug discovery",
+      "protein folding"
+    ],
+    "muc_do_kho": 2,
+    "thang_do_bloom": "Understand",
+    "thoi_gian_du_kien": 40
+  },
+  {
+    "ma_cau_hoi": "8b9c0d1e-2f3a-44b5-c6d7-e8f90a1b2c3d",
+    "noi_dung": "What does the term 'Multimodal' mean in the context of modern AI models?",
+    "dap_an_a": "The model can run on multiple operating systems",
+    "dap_an_b": "The model is trained by a coalition of multiple companies",
+    "dap_an_c": "The ability to process and generate various data types simultaneously, such as text, images, and audio",
+    "dap_an_d": "The model supports multiple programming languages",
+    "dap_an_dung": "C",
+    "chu_de": "Technical Concepts",
+    "chu_de_con": "Multimodal",
+    "tu_khoa": [
+      "multimodal",
+      "capabilities",
+      "text and images"
+    ],
+    "muc_do_kho": 2,
+    "thang_do_bloom": "Understand",
+    "thoi_gian_du_kien": 40
+  },
+  {
+    "ma_cau_hoi": "9c0d1e2f-3a4b-45c6-d7e8-f90a1b2c3d4e",
+    "noi_dung": "What is a major issue with current standard AI benchmarks?",
+    "dap_an_a": "No tests have been created yet",
+    "dap_an_b": "AI systems achieve maximum scores too quickly, leading to benchmark saturation",
+    "dap_an_c": "Humans cannot comprehend the test results",
+    "dap_an_d": "They can only be executed on quantum supercomputers",
+    "dap_an_dung": "B",
+    "chu_de": "Technical Performance",
+    "chu_de_con": "Benchmark Evaluation",
+    "tu_khoa": [
+      "benchmarks",
+      "obsolete",
+      "saturation"
+    ],
+    "muc_do_kho": 3,
+    "thang_do_bloom": "Analyze",
+    "thoi_gian_du_kien": 55
+  },
+  {
+    "ma_cau_hoi": "0d1e2f3a-4b5c-46d7-e8f9-0a1b2c3d4e5f",
+    "noi_dung": "How does global public opinion generally react to the rapid development of AI?",
+    "dap_an_a": "Complete trust with zero concerns",
+    "dap_an_b": "Widespread technological boycott",
+    "dap_an_c": "A mixture of excitement about its potential and anxiety regarding job loss and deepfakes",
+    "dap_an_d": "Apathy, believing AI does not impact daily life",
+    "dap_an_dung": "C",
+    "chu_de": "Social Impact",
+    "chu_de_con": "Public Opinion",
+    "tu_khoa": [
+      "public opinion",
+      "anxiety",
+      "excitement"
+    ],
+    "muc_do_kho": 2,
+    "thang_do_bloom": "Understand",
+    "thoi_gian_du_kien": 45
+  },
+  {
+    "ma_cau_hoi": "1e2f3a4b-5c6d-47e8-f90a-1b2c3d4e5f6a",
+    "noi_dung": "Which metric is commonly used to measure the total computational resources required to train an AI model?",
+    "dap_an_a": "Gigabytes (GB)",
+    "dap_an_b": "FLOPs (Floating point operations)",
+    "dap_an_c": "Megapixels (MP)",
+    "dap_an_d": "Baud rate",
+    "dap_an_dung": "B",
+    "chu_de": "Infrastructure",
+    "chu_de_con": "Computational Resources",
+    "tu_khoa": [
+      "compute",
+      "FLOPs",
+      "training"
+    ],
+    "muc_do_kho": 2,
+    "thang_do_bloom": "Remember",
+    "thoi_gian_du_kien": 30
+  },
+  {
+    "ma_cau_hoi": "2f3a4b5c-6d7e-48f9-0a1b-2c3d4e5f6a7b",
+    "noi_dung": "Why are enterprises primarily prioritizing the integration of Generative AI into their workflows?",
+    "dap_an_a": "To entirely replace executive boards",
+    "dap_an_b": "To enhance automation, optimize costs, and boost worker productivity",
+    "dap_an_c": "Because licensing costs are always zero",
+    "dap_an_d": "To evade corporate taxes",
+    "dap_an_dung": "B",
+    "chu_de": "AI Economics",
+    "chu_de_con": "Enterprise Application",
+    "tu_khoa": [
+      "enterprises",
+      "generative AI",
+      "productivity"
+    ],
+    "muc_do_kho": 2,
+    "thang_do_bloom": "Understand",
+    "thoi_gian_du_kien": 40
+  },
+  {
+    "ma_cau_hoi": "3a4b5c6d-7e8f-490a-1b2c-3d4e5f6a7b8c",
+    "noi_dung": "Which security risk has escalated the most due to the proliferation of generative AI?",
+    "dap_an_a": "USB-based virus infections",
+    "dap_an_b": "Distributed Denial of Service (DDoS) attacks",
+    "dap_an_c": "Sophisticated deepfakes, voice cloning fraud, and automated phishing emails",
+    "dap_an_d": "Physical theft of server hardware",
+    "dap_an_dung": "C",
+    "chu_de": "Safety and Risks",
+    "chu_de_con": "Cybersecurity",
+    "tu_khoa": [
+      "security risks",
+      "deepfakes",
+      "phishing"
+    ],
+    "muc_do_kho": 2,
+    "thang_do_bloom": "Understand",
+    "thoi_gian_du_kien": 45
+  },
+  {
+    "ma_cau_hoi": "4b5c6d7e-8f90-4a1b-2c3d-4e5f6a7b8c9d",
+    "noi_dung": "Who currently dominates advanced AI research and foundation model development?",
+    "dap_an_a": "Small public universities",
+    "dap_an_b": "Anonymous hacker collectives",
+    "dap_an_c": "Major technology corporations (Big Tech) due to their vast compute and data resources",
+    "dap_an_d": "Non-governmental organizations",
+    "dap_an_dung": "C",
+    "chu_de": "Research and Development",
+    "chu_de_con": "Research Actors",
+    "tu_khoa": [
+      "dominance",
+      "Big Tech",
+      "resources"
+    ],
+    "muc_do_kho": 3,
+    "thang_do_bloom": "Analyze",
+    "thoi_gian_du_kien": 50
+  },
+  {
+    "ma_cau_hoi": "5c6d7e8f-90a1-4b2c-3d4e-5f6a7b8c9d0e",
+    "noi_dung": "What is a looming challenge regarding high-quality training data for future AI models?",
+    "dap_an_a": "It is less important than increasing model size",
+    "dap_an_b": "The industry faces a potential exhaustion of human-generated text data on the internet",
+    "dap_an_c": "It will be entirely replaced by AI-generated data with no quality degradation",
+    "dap_an_d": "Models only require image data now, not text",
+    "dap_an_dung": "B",
+    "chu_de": "Infrastructure",
+    "chu_de_con": "Training Data",
+    "tu_khoa": [
+      "training data",
+      "exhaustion",
+      "internet"
+    ],
+    "muc_do_kho": 3,
+    "thang_do_bloom": "Analyze",
+    "thoi_gian_du_kien": 55
+  },
+  {
+    "ma_cau_hoi": "6d7e8f90-a1b2-4c3d-4e5f-6a7b8c9d0e1f",
+    "noi_dung": "In the context of AI safety evaluation, what does the term 'Red Teaming' refer to?",
+    "dap_an_a": "Forming a team of developers who wear red uniforms",
+    "dap_an_b": "The process where a group of experts intentionally attacks and probes the AI for vulnerabilities before release",
+    "dap_an_c": "A marketing strategy for new AI products",
+    "dap_an_d": "A red user interface indicating software errors",
+    "dap_an_dung": "B",
+    "chu_de": "Safety and Risks",
+    "chu_de_con": "Safety Evaluation",
+    "tu_khoa": [
+      "Red Teaming",
+      "vulnerabilities",
+      "evaluation"
+    ],
+    "muc_do_kho": 2,
+    "thang_do_bloom": "Understand",
+    "thoi_gian_du_kien": 40
+  },
+  {
+    "ma_cau_hoi": "7e8f90a1-b2c3-4d4e-5f6a-7b8c9d0e1f2a",
+    "noi_dung": "What hardware component remains the most critical bottleneck and largest expense for training frontier AI models?",
+    "dap_an_a": "Central Processing Units (CPUs)",
+    "dap_an_b": "Random Access Memory (RAM)",
+    "dap_an_c": "Graphics Processing Units (GPUs) and specialized AI accelerators",
+    "dap_an_d": "Solid State Drives (SSDs)",
+    "dap_an_dung": "C",
+    "chu_de": "Infrastructure",
+    "chu_de_con": "Hardware",
+    "tu_khoa": [
+      "hardware",
+      "GPUs",
+      "bottleneck"
+    ],
+    "muc_do_kho": 1,
+    "thang_do_bloom": "Remember",
+    "thoi_gian_du_kien": 30
+  },
+  {
+    "ma_cau_hoi": "8f90a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a3b",
+    "noi_dung": "Which widely recognized benchmark is specifically used to evaluate the mathematical reasoning capabilities of AI models?",
+    "dap_an_a": "ImageNet",
+    "dap_an_b": "GSM8K (Grade School Math 8K)",
+    "dap_an_c": "SQuAD",
+    "dap_an_d": "WMT14",
+    "dap_an_dung": "B",
+    "chu_de": "Technical Performance",
+    "chu_de_con": "Benchmarks",
+    "tu_khoa": [
+      "math",
+      "reasoning",
+      "GSM8K"
+    ],
+    "muc_do_kho": 2,
+    "thang_do_bloom": "Understand",
+    "thoi_gian_du_kien": 40
+  },
+  {
+    "ma_cau_hoi": "90a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b4c",
+    "noi_dung": "What major legal challenge are generative AI companies frequently facing regarding their training data?",
+    "dap_an_a": "Antitrust violations",
+    "dap_an_b": "Copyright infringement lawsuits from authors and media outlets",
+    "dap_an_c": "Tax evasion related to data importing",
+    "dap_an_d": "Violations of hardware export bans",
+    "dap_an_dung": "B",
+    "chu_de": "Policy and Governance",
+    "chu_de_con": "Intellectual Property",
+    "tu_khoa": [
+      "copyright",
+      "lawsuits",
+      "training data"
+    ],
+    "muc_do_kho": 2,
+    "thang_do_bloom": "Understand",
+    "thoi_gian_du_kien": 45
+  },
+  {
+    "ma_cau_hoi": "0a1b2c3d-4e5f-46a7-b8c9-d0e1f2a3b4c5",
+    "noi_dung": "In the software engineering domain, what impact do AI coding assistants (like GitHub Copilot) have on developers?",
+    "dap_an_a": "They have caused mass layoffs among senior developers",
+    "dap_an_b": "They drastically slow down the coding process",
+    "dap_an_c": "They significantly improve coding speed and reduce repetitive tasks",
+    "dap_an_d": "They are only capable of writing HTML",
+    "dap_an_dung": "C",
+    "chu_de": "AI Applications",
+    "chu_de_con": "Software Development",
+    "tu_khoa": [
+      "coding assistants",
+      "productivity",
+      "software"
+    ],
+    "muc_do_kho": 1,
+    "thang_do_bloom": "Remember",
+    "thoi_gian_du_kien": 35
+  },
+  {
+    "ma_cau_hoi": "1b2c3d4e-5f6a-47b8-c9d0-e1f2a3b4c5d6",
+    "noi_dung": "What is the primary distinction between 'Open-Source' and 'Open-Weights' models in the AI industry?",
+    "dap_an_a": "There is no difference; the terms are synonymous",
+    "dap_an_b": "Open-source provides the entire training code and data, while open-weights only releases the final model parameters",
+    "dap_an_c": "Open-weights models are illegal to use commercially",
+    "dap_an_d": "Open-source refers to hardware, open-weights refers to software",
+    "dap_an_dung": "B",
+    "chu_de": "Technical Concepts",
+    "chu_de_con": "Model Accessibility",
+    "tu_khoa": [
+      "open-weights",
+      "open-source",
+      "parameters"
+    ],
+    "muc_do_kho": 3,
+    "thang_do_bloom": "Analyze",
+    "thoi_gian_du_kien": 55
+  },
+  {
+    "ma_cau_hoi": "2c3d4e5f-6a7b-48c9-d0e1-f2a3b4c5d6e7",
+    "noi_dung": "Which demographic group continues to be significantly underrepresented in the global AI research and workforce workforce?",
+    "dap_an_a": "Men",
+    "dap_an_b": "Individuals with engineering degrees",
+    "dap_an_c": "Women",
+    "dap_an_d": "People under 30 years old",
+    "dap_an_dung": "C",
+    "chu_de": "Education and Employment",
+    "chu_de_con": "Diversity",
+    "tu_khoa": [
+      "diversity",
+      "workforce",
+      "underrepresented"
+    ],
+    "muc_do_kho": 1,
+    "thang_do_bloom": "Remember",
+    "thoi_gian_du_kien": 30
+  },
+  {
+    "ma_cau_hoi": "3d4e5f6a-7b8c-49d0-e1f2-a3b4c5d6e7f8",
+    "noi_dung": "What does 'RAG' (Retrieval-Augmented Generation) aim to solve in Large Language Models?",
+    "dap_an_a": "High electricity consumption",
+    "dap_an_b": "The model's tendency to hallucinate by grounding its answers in external, verifiable databases",
+    "dap_an_c": "The slow processing speed of GPUs",
+    "dap_an_d": "The inability to generate images",
+    "dap_an_dung": "B",
+    "chu_de": "Technical Concepts",
+    "chu_de_con": "Model Optimization",
+    "tu_khoa": [
+      "RAG",
+      "hallucination",
+      "retrieval"
+    ],
+    "muc_do_kho": 2,
+    "thang_do_bloom": "Understand",
+    "thoi_gian_du_kien": 45
+  },
+  {
+    "ma_cau_hoi": "4e5f6a7b-8c9d-40e1-f2a3-b4c5d6e7f8g9",
+    "noi_dung": "According to the AI Incident Database, what trend is observed regarding misuse and accidents involving AI?",
+    "dap_an_a": "Incidents have dropped to zero",
+    "dap_an_b": "Incidents are rising rapidly, parallel to the increased deployment of AI technologies",
+    "dap_an_c": "Only open-source models are involved in incidents",
+    "dap_an_d": "Incidents only happen in the healthcare sector",
+    "dap_an_dung": "B",
+    "chu_de": "Safety and Risks",
+    "chu_de_con": "AI Incidents",
+    "tu_khoa": [
+      "AI incidents",
+      "misuse",
+      "accidents"
+    ],
+    "muc_do_kho": 2,
+    "thang_do_bloom": "Understand",
+    "thoi_gian_du_kien": 35
+  },
+  {
+    "ma_cau_hoi": "5f6a7b8c-9d0e-41f2-a3b4-c5d6e7f8g9h0",
+    "noi_dung": "What is 'Agentic AI' (AI Agents), a major trend highlighted in recent AI developments?",
+    "dap_an_a": "AI that acts as a customer service representative",
+    "dap_an_b": "Systems that do not just answer questions, but can autonomously plan and execute multi-step actions across various software tools",
+    "dap_an_c": "AI used by secret intelligence agencies",
+    "dap_an_d": "A physical robot designed for military use",
+    "dap_an_dung": "B",
+    "chu_de": "Research and Development",
+    "chu_de_con": "AI Agents",
+    "tu_khoa": [
+      "agentic AI",
+      "autonomous",
+      "execution"
+    ],
+    "muc_do_kho": 2,
+    "thang_do_bloom": "Understand",
+    "thoi_gian_du_kien": 45
+  },
+  {
+    "ma_cau_hoi": "6a7b8c9d-0e1f-42a3-b4c5-d6e7f8g9h0i1",
+    "noi_dung": "In terms of global public opinion, how do people in developing nations generally view AI compared to those in developed nations?",
+    "dap_an_a": "They are much more pessimistic and fearful",
+    "dap_an_b": "They are completely unaware of AI",
+    "dap_an_c": "They tend to be more optimistic about AI's potential to improve their lives and economies",
+    "dap_an_d": "There is no statistical difference between the two",
+    "dap_an_dung": "C",
+    "chu_de": "Social Impact",
+    "chu_de_con": "Public Perception",
+    "tu_khoa": [
+      "developing nations",
+      "optimism",
+      "public opinion"
+    ],
+    "muc_do_kho": 2,
+    "thang_do_bloom": "Understand",
+    "thoi_gian_du_kien": 40
+  },
+  {
+    "ma_cau_hoi": "7b8c9d0e-1f2a-43b4-c5d6-e7f8g9h0i1j2",
+    "noi_dung": "Which regulatory body has seen a massive surge in the number of AI-related medical devices cleared for use?",
+    "dap_an_a": "The Federal Aviation Administration (FAA)",
+    "dap_an_b": "The US Food and Drug Administration (FDA)",
+    "dap_an_c": "The Environmental Protection Agency (EPA)",
+    "dap_an_d": "The Federal Communications Commission (FCC)",
+    "dap_an_dung": "B",
+    "chu_de": "AI Applications",
+    "chu_de_con": "Healthcare Regulations",
+    "tu_khoa": [
+      "FDA",
+      "medical devices",
+      "healthcare"
+    ],
+    "muc_do_kho": 1,
+    "thang_do_bloom": "Remember",
+    "thoi_gian_du_kien": 30
+  },
+  {
+    "ma_cau_hoi": "8c9d0e1f-2a3b-44c5-d6e7-f8g9h0i1j2k3",
+    "noi_dung": "What phenomenon occurs when an AI model is repeatedly trained on data generated by other AI models?",
+    "dap_an_a": "Singularity",
+    "dap_an_b": "Model Collapse (or Data Inbreeding), leading to a degradation in output quality and loss of information",
+    "dap_an_c": "Infinite intelligence loop",
+    "dap_an_d": "Zero-shot learning",
+    "dap_an_dung": "B",
+    "chu_de": "Technical Performance",
+    "chu_de_con": "Training Challenges",
+    "tu_khoa": [
+      "model collapse",
+      "synthetic data",
+      "degradation"
+    ],
+    "muc_do_kho": 3,
+    "thang_do_bloom": "Analyze",
+    "thoi_gian_du_kien": 50
+  },
+  {
+    "ma_cau_hoi": "9d0e1f2a-3b4c-45d6-e7f8-g9h0i1j2k3l4",
+    "noi_dung": "How has the United States approached AI regulation compared to the European Union's centralized AI Act?",
+    "dap_an_a": "The US has passed an identical federal law",
+    "dap_an_b": "The US has banned AI entirely",
+    "dap_an_c": "The US has relied on a decentralized, sector-specific approach and state-level legislation",
+    "dap_an_d": "The US has outsourced regulation to the UN",
+    "dap_an_dung": "C",
+    "chu_de": "Policy and Governance",
+    "chu_de_con": "Regulatory Approaches",
+    "tu_khoa": [
+      "regulation",
+      "United States",
+      "decentralized"
+    ],
+    "muc_do_kho": 3,
+    "thang_do_bloom": "Analyze",
+    "thoi_gian_du_kien": 55
+  },
+  {
+    "ma_cau_hoi": "0e1f2a3b-4c5d-46e7-f8g9-h0i1j2k3l4m5",
+    "noi_dung": "In the field of materials science, how is AI being predominantly utilized?",
+    "dap_an_a": "To physically mine minerals using robots",
+    "dap_an_b": "To predict new crystal structures and discover new stable materials at unprecedented speeds (e.g., GNoME)",
+    "dap_an_c": "To write historical essays about steel production",
+    "dap_an_d": "To increase the friction of mechanical parts",
+    "dap_an_dung": "B",
+    "chu_de": "AI Applications",
+    "chu_de_con": "Scientific Discovery",
+    "tu_khoa": [
+      "materials science",
+      "GNoME",
+      "discovery"
+    ],
+    "muc_do_kho": 2,
+    "thang_do_bloom": "Understand",
+    "thoi_gian_du_kien": 40
+  },
+  {
+    "ma_cau_hoi": "1f2a3b4c-5d6e-47f8-g9h0-i1j2k3l4m5n6",
+    "noi_dung": "What is 'Fine-Tuning' in the context of foundation models?",
+    "dap_an_a": "Adjusting the cooling fans on a GPU server",
+    "dap_an_b": "The process of taking a pre-trained model and training it further on a smaller, specific dataset to adapt it to specialized tasks",
+    "dap_an_c": "Writing the initial code for a neural network",
+    "dap_an_d": "Translating the model's output into different languages manually",
+    "dap_an_dung": "B",
+    "chu_de": "Technical Concepts",
+    "chu_de_con": "Model Training",
+    "tu_khoa": [
+      "fine-tuning",
+      "adaptation",
+      "specialized tasks"
+    ],
+    "muc_do_kho": 2,
+    "thang_do_bloom": "Understand",
+    "thoi_gian_du_kien": 40
+  },
+  {
+    "ma_cau_hoi": "2a3b4c5d-6e7f-48g9-h0i1-j2k3l4m5n6o7",
+    "noi_dung": "What geopolitical trend is observed regarding AI chip manufacturing and supply chains?",
+    "dap_an_a": "Every country is completely self-sufficient",
+    "dap_an_b": "Manufacturing is increasingly concentrated and subject to strict export controls and trade restrictions (e.g., US restrictions on China)",
+    "dap_an_c": "Chips are now freely shared without any patents",
+    "dap_an_d": "Software companies are abandoning chips for biological computing",
+    "dap_an_dung": "B",
+    "chu_de": "Policy and Governance",
+    "chu_de_con": "Geopolitics",
+    "tu_khoa": [
+      "export controls",
+      "chips",
+      "geopolitics"
+    ],
+    "muc_do_kho": 3,
+    "thang_do_bloom": "Analyze",
+    "thoi_gian_du_kien": 50
+  },
+  {
+    "ma_cau_hoi": "3b4c5d6e-7f8g-49h0-i1j2-k3l4m5n6o7p8",
+    "noi_dung": "Which sector has reported the highest rate of AI adoption for business functions according to industry surveys?",
+    "dap_an_a": "Heavy Construction",
+    "dap_an_b": "Marketing, Sales, and Customer Service",
+    "dap_an_c": "Forestry and Logging",
+    "dap_an_d": "Primary School Teaching",
+    "dap_an_dung": "B",
+    "chu_de": "AI Economics",
+    "chu_de_con": "Business Adoption",
+    "tu_khoa": [
+      "adoption",
+      "marketing",
+      "customer service"
+    ],
+    "muc_do_kho": 1,
+    "thang_do_bloom": "Remember",
+    "thoi_gian_du_kien": 30
+  },
+  {
+    "ma_cau_hoi": "4c5d6e7f-8g9h-40i1-j2k3-l4m5n6o7p8q9",
+    "noi_dung": "What is a primary motivation for researchers to develop 'Small Language Models' (SLMs) instead of continuing to scale up LLMs?",
+    "dap_an_a": "To decrease the intelligence of AI",
+    "dap_an_b": "To allow models to run efficiently on edge devices (like smartphones) with lower latency, enhanced privacy, and reduced costs",
+    "dap_an_c": "Because they ran out of math equations",
+    "dap_an_d": "To force users to buy larger computer monitors",
+    "dap_an_dung": "B",
+    "chu_de": "Research and Development",
+    "chu_de_con": "Model Efficiency",
+    "tu_khoa": [
+      "Small Language Models",
+      "efficiency",
+      "edge devices"
+    ],
+    "muc_do_kho": 2,
+    "thang_do_bloom": "Understand",
+    "thoi_gian_du_kien": 45
+  },
+  {
+    "ma_cau_hoi": "5d6e7f8g-9h0i-41j2-k3l4-m5n6o7p8q9r0",
+    "noi_dung": "How does AI impact the scientific peer review process?",
+    "dap_an_a": "It has completely replaced human reviewers",
+    "dap_an_b": "Researchers are increasingly using LLMs to draft reviews and papers, leading to a noticeable rise in AI-generated academic text",
+    "dap_an_c": "AI is unable to read scientific PDFs",
+    "dap_an_d": "It causes papers to take 10 times longer to be published",
+    "dap_an_dung": "B",
+    "chu_de": "AI Applications",
+    "chu_de_con": "Scientific Research",
+    "tu_khoa": [
+      "peer review",
+      "academic text",
+      "LLMs"
+    ],
+    "muc_do_kho": 2,
+    "thang_do_bloom": "Understand",
+    "thoi_gian_du_kien": 40
+  },
+  {
+    "ma_cau_hoi": "6e7f8g9h-0i1j-42k3-l4m5-n6o7p8q9r0s1",
+    "noi_dung": "In the context of generative AI, what is 'Watermarking'?",
+    "dap_an_a": "Cooling AI servers with water",
+    "dap_an_b": "A technique to embed hidden signals into AI-generated text or images to identify them as machine-made and combat misinformation",
+    "dap_an_c": "A company logo printed on a GPU",
+    "dap_an_d": "A bug where the AI deletes its own code",
+    "dap_an_dung": "B",
+    "chu_de": "Safety and Risks",
+    "chu_de_con": "Misinformation Control",
+    "tu_khoa": [
+      "watermarking",
+      "misinformation",
+      "identification"
+    ],
+    "muc_do_kho": 2,
+    "thang_do_bloom": "Understand",
+    "thoi_gian_du_kien": 40
+  }
+]

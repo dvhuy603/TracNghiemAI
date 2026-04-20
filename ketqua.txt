@@ -1,0 +1,14 @@
+===== KET QUA =====
+Cau 1: SAI (Dung: B)
+Cau 2: SAI (Dung: B)
+Cau 3: SAI (Dung: B)
+Cau 4: SAI (Dung: C)
+Cau 5: SAI (Dung: C)
+Cau 6: SAI (Dung: C)
+Cau 7: SAI (Dung: C)
+Cau 8: SAI (Dung: B)
+Cau 9: SAI (Dung: C)
+Cau 10: SAI (Dung: B)
+
+DIEM: 0/10
+Xep loai: Yeu
