@@ -46,6 +46,8 @@ Chạy:
 ---
 
 ## 📊 Giao diện chương trình
+
+```
 =====================
   TRAC NGHIEM AI
 =====================
@@ -53,6 +55,7 @@ Chạy:
 2. Lam bai theo do kho
 3. Xem ket qua
 0. Thoat
+```
 
 ---
 
